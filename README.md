@@ -1,2 +1,2 @@
 # white-sand
-just another repository
+just another repository...
